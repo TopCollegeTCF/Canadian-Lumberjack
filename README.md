@@ -402,3 +402,37 @@
 99. Бог леса	+75% урона и сбора древесины	750 000 XP
 
 100. ЛЕГЕНДА ЛЕСА	+100% к основным характеристикам навсегда	1 000 000 XP
+
+
+
+
+
+<img width="99" height="103" alt="tree_06_stone_tree" src="https://github.com/user-attachments/assets/c55b16b6-5531-48e9-b402-fc760fff04bd" />
+<img width="50" height="50" alt="mob_04_spore_creature" src="https://github.com/user-attachments/assets/98e5517e-580e-4916-b815-7e45c3ed51f9" />
+<img width="49" height="50" alt="mob_03_wolf" src="https://github.com/user-attachments/assets/1b68c312-3e8e-4421-ba81-c81d6a7cd5bc" />
+<img width="98" height="103" alt="tree_01_ancient_oak" src="https://github.com/user-attachments/assets/6cb197e3-9155-4b6a-bbce-24c6c46059be" />
+<img width="249" height="96" alt="biome_06_cursed_forest" src="https://github.com/user-attachments/assets/2a2f723d-c50e-4008-b368-9e851cb66f1b" />
+<img width="248" height="96" alt="biome_04_drylands" src="https://github.com/user-attachments/assets/37660cf1-c6bc-4cf0-8068-59e63ccdd8fb" />
+<img width="194" height="81" alt="zone_03_mountain_forest" src="https://github.com/user-attachments/assets/b883e8e2-adb3-4a02-a706-497f5293710f" />
+<img width="248" height="94" alt="biome_01_dremuchiy_forest" src="https://github.com/user-attachments/assets/88e4f6bb-fbd3-40b5-a3a1-0038c57fc7ec" />
+<img width="99" height="103" alt="tree_05_goldenleaf" src="https://github.com/user-attachments/assets/8e381ffe-0dbc-4a28-8cf8-4626d9867f50" />
+<img width="53" height="50" alt="mob_06_tree_boss" src="https://github.com/user-attachments/assets/3dddcd03-e24c-4d71-8434-da8022b41ea0" />
+<img width="99" height="103" alt="tree_04_redwood" src="https://github.com/user-attachments/assets/12899fd5-9673-46cb-932a-468a4e879ead" />
+<img width="48" height="50" alt="mob_01_deer" src="https://github.com/user-attachments/assets/8d66240c-7637-4852-8a80-59b2fd83e288" />
+<img width="49" height="50" alt="mob_02_boar" src="https://github.com/user-attachments/assets/7b287a89-13bf-4063-ac4d-e4c41a547667" />
+<img width="99" height="103" alt="tree_02_glowwood" src="https://github.com/user-attachments/assets/182d4876-42fe-4bbd-b528-fd0e1b950332" />
+<img width="97" height="102" alt="place_01_lumberjack_village" src="https://github.com/user-attachments/assets/f3c3ce27-fb8d-4c22-ab39-b706d63796d0" />
+<img width="98" height="102" alt="place_02_abandoned_sawmill" src="https://github.com/user-attachments/assets/529a233e-ad16-4f06-b3b5-6156b54f9509" />
+<img width="248" height="94" alt="biome_02_taiga" src="https://github.com/user-attachments/assets/46867aa9-242a-49b4-afcd-f275becb38f5" />
+<img width="50" height="50" alt="mob_05_ancient_guardian" src="https://github.com/user-attachments/assets/90118723-5712-4a62-b05b-a68ac46b9d74" />
+<img width="99" height="103" alt="tree_03_blood_tree" src="https://github.com/user-attachments/assets/b6013e9c-1a31-4ab8-b386-27464f8c2f9a" />
+<img width="192" height="81" alt="zone_04_sacred_grove" src="https://github.com/user-attachments/assets/a2687b4b-8e63-4338-b4be-96dbb43c76b2" />
+<img width="90" height="102" alt="place_06_underground_roots" src="https://github.com/user-attachments/assets/c162c7ed-187f-43c7-ba5c-88cd03683879" />
+<img width="97" height="102" alt="place_05_watchtower" src="https://github.com/user-attachments/assets/5175371c-0cc1-418a-85f7-1266418e85c0" />
+<img width="98" height="102" alt="place_04_ancient_tree_graveyard" src="https://github.com/user-attachments/assets/416952fc-634b-449c-849b-43c94feef967" />
+<img width="99" height="102" alt="place_03_world_tree" src="https://github.com/user-attachments/assets/b2cb2728-fe86-4e0d-998f-4553d9c8d6ee" />
+<img width="249" height="94" alt="biome_03_mushroom_forest" src="https://github.com/user-attachments/assets/8883a2ec-9780-45e0-b728-cd1df4c75f89" />
+<img width="248" height="96" alt="biome_05_jungle" src="https://github.com/user-attachments/assets/4ed30bf2-1d3a-4bab-bc3a-7af48c1912f0" />
+<img width="192" height="81" alt="zone_02_swamp" src="https://github.com/user-attachments/assets/703202a0-a777-4ac4-b033-b32534d1c9f0" />
+<img width="194" height="81" alt="zone_01_autumn_groves" src="https://github.com/user-attachments/assets/3152faed-f040-497c-97e6-0aaa79ebcf57" />
+<img width="924" height="318" alt="world_map" src="https://github.com/user-attachments/assets/364abf39-d46e-4811-b3f3-afc301033f0d" />
