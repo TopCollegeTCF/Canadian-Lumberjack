@@ -1,3 +1,7 @@
+
+https://itstepru-my.sharepoint.com/personal/kryukov_iva_top-academy_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkryukov%5Fiva%5Ftop%2Dacademy%5Fru%2FDocuments%2F%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%2FSketchUp%202022%2Ezip&parent=%2Fpersonal%2Fkryukov%5Fiva%5Ftop%2Dacademy%5Fru%2FDocuments%2F%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B&ga=1
+
+
 🌲 Мир лесоруба — Дикие земли Вальдора
 Это огромный фэнтезийный мир, в котором природа живёт по собственным законам. Здесь бескрайние леса соседствуют с болотами, горными хребтами, древними руинами и загадочными землями. Лесоруб — один из немногих, кто осмеливается путешествовать между этими биомами, добывать ресурсы, сражаться с существами и открывать новые территории.
 
